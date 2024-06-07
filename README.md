@@ -1,3 +1,3 @@
-# Teste 1
+# Curso Digital: Git
 
-# Teste 2 - Versionamento Final
+## Salvando alterações no Git
